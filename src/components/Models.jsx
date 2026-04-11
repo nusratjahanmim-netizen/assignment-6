@@ -15,7 +15,7 @@ to boost your productivity and creativity.</p>
     {models.map((model) => (
         <div key={model.id} className=''>
             <div> 
-               <img src={model.image} alt={model.name} className='w-64 h-64 object-cover rounded-lg'/>
+               <img src={model.icon} alt={model.name} className='w-64 h-64 object-cover rounded-lg'/>
             </div>
         </div>
     ))}

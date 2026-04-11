@@ -12,7 +12,7 @@
       "ATS optimization",
       "Export to PDF"
     ],
-    "icon": "FileText"
+    "icon": "/products/portfolio.png"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "Multiple formats",
       "Instant download"
     ],
-    "icon": "Mail"
+    "icon": "/products/writing.png"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "Drag & drop builder",
       "SEO optimized"
     ],
-    "icon": "Globe"
+    "icon": "/products/design-tool.png"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "Status updates",
       "Reminders"
     ],
-    "icon": "ClipboardList"
+    "icon": "/products/operation.png"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "Keyword suggestions",
       "Headline generator"
     ],
-    "icon": "Linkedin"
+    "icon": "/products/social-media.png"
   },
   {
     "id": 6,
@@ -87,6 +87,6 @@
       "Q&A database",
       "Tips from experts"
     ],
-    "icon": "Mic"
+    "icon": "/products/writing.png"
   }
 ]
