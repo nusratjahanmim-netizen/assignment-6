@@ -45,7 +45,7 @@ to boost your productivity and creativity.</p>
                 </ul>
             </div>
           </div>
-            <div className='btn bg-gradient-to-r from-indigo-600 to-purple-600 hover:bg-blue-700 text-white py-2 px-4 rounded-2xl text-center font-bold mt-6 cursor-pointer w-full'>
+            <div className='btn btn-primary mt-6 w-full text-center font-bold rounded-lg py-3 hover:bg-indigo-600 transition-colors duration-300'>
                 Buy Now
             </div>
         </div>
