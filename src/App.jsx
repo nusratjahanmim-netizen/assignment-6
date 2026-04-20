@@ -22,11 +22,11 @@ function App() {
   return (
     <>
  <NavBar />  
- <Banner/> 
- <Section/>
- <Suspense fallback={<div>Loading...</div>}>
+ {/* <Banner/>  */}
+ {/* <Section/> */}
+ {/* <Suspense fallback={<div>Loading...</div>}>
  <Models modelPromise = {modelPromise}/>
- </Suspense>
+ </Suspense> */}
 
 
     </>
